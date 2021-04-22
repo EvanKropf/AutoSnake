@@ -1,4 +1,4 @@
-#include <bits/types/time_t.h>
+#include <time.h>
 #include <cstdlib>
 #include <ctime>
 #include <stdio.h>
